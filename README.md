@@ -4,7 +4,7 @@
 	<br>
 	 ← + | 0 | - →
 	<br>
-<h3> PRIVATE PROPERTY OF AND IN THE ALTRUEN NATION </h3></a>
+<h3><b>PRIVATE PROPERTY OF AND IN THE ALTRUEN NATION</b></h3></a>
 <br>
 <br>
 <br>
