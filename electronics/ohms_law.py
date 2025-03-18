@@ -1,4 +1,4 @@
-# https://en.wikipedia.org/wiki/Ohm%27s_law
+# https://sites.google.com/thealtruennation/home
 from __future__ import annotations
 
 
